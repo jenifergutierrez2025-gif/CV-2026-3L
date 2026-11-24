@@ -1,0 +1,630 @@
+[
+  {
+    "track_id": 1,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:08",
+    "tipo_vehiculo": "motocicleta",
+    "confianza_tipo": 0.61,
+    "marca_modelo_crudo": null,
+    "confianza_marca_modelo": null,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": null,
+    "confianza_ocr": null,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Jennifer.pdf#attachment=cv_13961975_vehiculo_1.jpg",
+    "ruta_crop_placa": null,
+    "n_frames": 121,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 8.067,
+    "duracion_segundos": 8.067,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 121,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.051,
+    "fraccion_horizontal_fin": 0.029,
+    "desplazamiento_px": 59.26,
+    "preprocesamiento_placa": [],
+    "region_placa_ocr": null,
+    "confianza_region_placa": null,
+    "fuente": "13961975-uhd_2160_3840_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        117
+      ],
+      [
+        119,
+        121
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_13961975_Jennifer.mp4"
+  },
+  {
+    "track_id": 2,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:08",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.81,
+    "marca_modelo_crudo": "volvo_c30_hatchback_2012",
+    "confianza_marca_modelo": 0.29,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "D96ACA",
+    "confianza_ocr": 1.0,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Jennifer.pdf#attachment=cv_13961975_vehiculo_2.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Jennifer.pdf#attachment=cv_13961975_placa_2.jpg",
+    "n_frames": 130,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 8.6,
+    "duracion_segundos": 8.667,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 129,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 3,
+    "fraccion_horizontal_inicio": 0.219,
+    "fraccion_horizontal_fin": 0.417,
+    "desplazamiento_px": 77.58,
+    "preprocesamiento_placa": [
+      "iluminacion(brillo=60)",
+      "perspectiva"
+    ],
+    "region_placa_ocr": "Mexico",
+    "confianza_region_placa": 1.0,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "13961975-uhd_2160_3840_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        129
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_13961975_Jennifer.mp4"
+  },
+  {
+    "track_id": 3,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:08",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.43,
+    "marca_modelo_crudo": "am_general_hummer_suv_2000",
+    "confianza_marca_modelo": 0.11,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": null,
+    "confianza_ocr": null,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Jennifer.pdf#attachment=cv_13961975_vehiculo_3.jpg",
+    "ruta_crop_placa": null,
+    "n_frames": 96,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 8.6,
+    "duracion_segundos": 6.4,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 129,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.168,
+    "fraccion_horizontal_fin": 0.13,
+    "desplazamiento_px": 70.46,
+    "preprocesamiento_placa": [],
+    "region_placa_ocr": null,
+    "confianza_region_placa": null,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "13961975-uhd_2160_3840_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        0
+      ],
+      [
+        4,
+        19
+      ],
+      [
+        30,
+        35
+      ],
+      [
+        39,
+        40
+      ],
+      [
+        42,
+        46
+      ],
+      [
+        52,
+        58
+      ],
+      [
+        63,
+        63
+      ],
+      [
+        66,
+        106
+      ],
+      [
+        111,
+        112
+      ],
+      [
+        114,
+        115
+      ],
+      [
+        117,
+        129
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_13961975_Jennifer.mp4"
+  },
+  {
+    "track_id": 4,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:08",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.66,
+    "marca_modelo_crudo": null,
+    "confianza_marca_modelo": null,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": null,
+    "confianza_ocr": null,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Jennifer.pdf#attachment=cv_13961975_vehiculo_4.jpg",
+    "ruta_crop_placa": null,
+    "n_frames": 126,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 8.6,
+    "duracion_segundos": 8.4,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 129,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.243,
+    "fraccion_horizontal_fin": 0.375,
+    "desplazamiento_px": 64.36,
+    "preprocesamiento_placa": [],
+    "region_placa_ocr": null,
+    "confianza_region_placa": null,
+    "fuente": "13961975-uhd_2160_3840_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        69
+      ],
+      [
+        74,
+        129
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_13961975_Jennifer.mp4"
+  },
+  {
+    "track_id": 5,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:08",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.9,
+    "marca_modelo_crudo": "rolls_royce_phantom_sedan_2012",
+    "confianza_marca_modelo": 0.08,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "H78BFJ",
+    "confianza_ocr": 1.0,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Jennifer.pdf#attachment=cv_13961975_vehiculo_5.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Jennifer.pdf#attachment=cv_13961975_placa_5.jpg",
+    "n_frames": 130,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 8.6,
+    "duracion_segundos": 8.667,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 129,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.407,
+    "fraccion_horizontal_fin": 0.951,
+    "desplazamiento_px": 170.77,
+    "preprocesamiento_placa": [
+      "iluminacion(brillo=61)"
+    ],
+    "region_placa_ocr": "Mexico",
+    "confianza_region_placa": 1.0,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "13961975-uhd_2160_3840_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        129
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_13961975_Jennifer.mp4"
+  },
+  {
+    "track_id": 6,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:08",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.8,
+    "marca_modelo_crudo": "cadillac_cts_v_sedan_2012",
+    "confianza_marca_modelo": 0.06,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "DU191",
+    "confianza_ocr": 0.57,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Jennifer.pdf#attachment=cv_13961975_vehiculo_6.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Jennifer.pdf#attachment=cv_13961975_placa_6.jpg",
+    "n_frames": 130,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 8.6,
+    "duracion_segundos": 8.667,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 129,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.393,
+    "fraccion_horizontal_fin": 0.555,
+    "desplazamiento_px": 108.79,
+    "preprocesamiento_placa": [
+      "iluminacion(brillo=79)"
+    ],
+    "region_placa_ocr": "Mexico",
+    "confianza_region_placa": 0.49,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "13961975-uhd_2160_3840_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        129
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_13961975_Jennifer.mp4"
+  },
+  {
+    "track_id": 7,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:05",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.7,
+    "marca_modelo_crudo": "bugatti_veyron_16_4_coupe_2009",
+    "confianza_marca_modelo": 0.04,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": null,
+    "confianza_ocr": null,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Jennifer.pdf#attachment=cv_13961975_vehiculo_7.jpg",
+    "ruta_crop_placa": null,
+    "n_frames": 78,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 5.667,
+    "duracion_segundos": 5.2,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 85,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 3,
+    "fraccion_horizontal_inicio": 0.691,
+    "fraccion_horizontal_fin": 0.965,
+    "desplazamiento_px": 211.87,
+    "preprocesamiento_placa": [],
+    "region_placa_ocr": null,
+    "confianza_region_placa": null,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "13961975-uhd_2160_3840_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        37
+      ],
+      [
+        39,
+        39
+      ],
+      [
+        41,
+        70
+      ],
+      [
+        72,
+        72
+      ],
+      [
+        74,
+        77
+      ],
+      [
+        79,
+        79
+      ],
+      [
+        81,
+        82
+      ],
+      [
+        85,
+        85
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_13961975_Jennifer.mp4"
+  },
+  {
+    "track_id": 8,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:06",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.79,
+    "marca_modelo_crudo": "lamborghini_reventon_coupe_2008",
+    "confianza_marca_modelo": 0.1,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "GHD7282",
+    "confianza_ocr": 0.64,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Jennifer.pdf#attachment=cv_13961975_vehiculo_8.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Jennifer.pdf#attachment=cv_13961975_placa_8.jpg",
+    "n_frames": 57,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 6.267,
+    "duracion_segundos": 3.8,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 94,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.543,
+    "fraccion_horizontal_fin": 0.672,
+    "desplazamiento_px": 35.71,
+    "preprocesamiento_placa": [
+      "iluminacion(brillo=67)"
+    ],
+    "region_placa_ocr": "Mexico",
+    "confianza_region_placa": 1.0,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "13961975-uhd_2160_3840_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        47
+      ],
+      [
+        49,
+        49
+      ],
+      [
+        87,
+        94
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_13961975_Jennifer.mp4"
+  },
+  {
+    "track_id": 9,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:08",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.84,
+    "marca_modelo_crudo": "volkswagen_golf_hatchback_2012",
+    "confianza_marca_modelo": 0.09,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "801ZOZ",
+    "confianza_ocr": 0.89,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Jennifer.pdf#attachment=cv_13961975_vehiculo_9.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Jennifer.pdf#attachment=cv_13961975_placa_9.jpg",
+    "n_frames": 121,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 8.6,
+    "duracion_segundos": 8.067,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 129,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 3,
+    "fraccion_horizontal_inicio": 0.744,
+    "fraccion_horizontal_fin": 0.793,
+    "desplazamiento_px": 455.37,
+    "preprocesamiento_placa": [
+      "iluminacion(brillo=53)"
+    ],
+    "region_placa_ocr": "Mexico",
+    "confianza_region_placa": 0.94,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "13961975-uhd_2160_3840_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        39
+      ],
+      [
+        49,
+        129
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_13961975_Jennifer.mp4"
+  },
+  {
+    "track_id": 10,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:08",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.55,
+    "marca_modelo_crudo": "chevrolet_silverado_2500hd_regular_cab_2012",
+    "confianza_marca_modelo": 0.05,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": null,
+    "confianza_ocr": null,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Jennifer.pdf#attachment=cv_13961975_vehiculo_10.jpg",
+    "ruta_crop_placa": null,
+    "n_frames": 88,
+    "t_inicio_seg": 0.867,
+    "t_fin_seg": 8.133,
+    "duracion_segundos": 5.867,
+    "cuadro_inicio": 13,
+    "cuadro_fin": 122,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 2,
+    "fraccion_horizontal_inicio": 0.07,
+    "fraccion_horizontal_fin": 0.077,
+    "desplazamiento_px": 63.84,
+    "preprocesamiento_placa": [],
+    "region_placa_ocr": null,
+    "confianza_region_placa": null,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "13961975-uhd_2160_3840_30fps.mp4",
+    "tramos_visibles": [
+      [
+        13,
+        20
+      ],
+      [
+        23,
+        30
+      ],
+      [
+        32,
+        34
+      ],
+      [
+        38,
+        38
+      ],
+      [
+        42,
+        48
+      ],
+      [
+        51,
+        52
+      ],
+      [
+        55,
+        57
+      ],
+      [
+        66,
+        114
+      ],
+      [
+        116,
+        122
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_13961975_Jennifer.mp4"
+  },
+  {
+    "track_id": 11,
+    "timestamp_inicio": "00:00:02",
+    "timestamp_fin": "00:00:08",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.43,
+    "marca_modelo_crudo": "lamborghini_aventador_coupe_2012",
+    "confianza_marca_modelo": 0.25,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": null,
+    "confianza_ocr": null,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Jennifer.pdf#attachment=cv_13961975_vehiculo_11.jpg",
+    "ruta_crop_placa": null,
+    "n_frames": 71,
+    "t_inicio_seg": 2.4,
+    "t_fin_seg": 8.6,
+    "duracion_segundos": 4.733,
+    "cuadro_inicio": 36,
+    "cuadro_fin": 129,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 3,
+    "fraccion_horizontal_inicio": 0.134,
+    "fraccion_horizontal_fin": 0.046,
+    "desplazamiento_px": 38.7,
+    "preprocesamiento_placa": [],
+    "region_placa_ocr": null,
+    "confianza_region_placa": null,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "13961975-uhd_2160_3840_30fps.mp4",
+    "tramos_visibles": [
+      [
+        36,
+        42
+      ],
+      [
+        45,
+        46
+      ],
+      [
+        48,
+        48
+      ],
+      [
+        52,
+        69
+      ],
+      [
+        71,
+        77
+      ],
+      [
+        80,
+        80
+      ],
+      [
+        88,
+        89
+      ],
+      [
+        93,
+        102
+      ],
+      [
+        104,
+        110
+      ],
+      [
+        112,
+        115
+      ],
+      [
+        118,
+        129
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_13961975_Jennifer.mp4"
+  },
+  {
+    "track_id": 12,
+    "timestamp_inicio": "00:00:04",
+    "timestamp_fin": "00:00:05",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.42,
+    "marca_modelo_crudo": null,
+    "confianza_marca_modelo": null,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": null,
+    "confianza_ocr": null,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Jennifer.pdf#attachment=cv_13961975_vehiculo_12.jpg",
+    "ruta_crop_placa": null,
+    "n_frames": 11,
+    "t_inicio_seg": 4.533,
+    "t_fin_seg": 5.333,
+    "duracion_segundos": 0.733,
+    "cuadro_inicio": 68,
+    "cuadro_fin": 80,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.282,
+    "fraccion_horizontal_fin": 0.45,
+    "desplazamiento_px": 110.86,
+    "preprocesamiento_placa": [],
+    "region_placa_ocr": null,
+    "confianza_region_placa": null,
+    "fuente": "13961975-uhd_2160_3840_30fps.mp4",
+    "tramos_visibles": [
+      [
+        68,
+        70
+      ],
+      [
+        73,
+        80
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_13961975_Jennifer.mp4"
+  }
+]
